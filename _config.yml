@@ -7,7 +7,7 @@ description: |
   Student / Developer / Entrepeneur
 owner: Zachary Taylor # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: ztaylor54@gmail.com
+email: me@ztaylor54.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ztaylor54.com" # the base hostname & protocol for your site
 social:
