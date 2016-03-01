@@ -4,13 +4,23 @@ layout: default
 <article id="main">
 
   <header>
+    {% if page.landing-title %}
+    <h2>{{ page.landing-title }}</h2>
+    {% else %}
     <h2>{{ page.title }}</h2>
-    <p>Aliquam ut ex ut interdum donec amet imperdiet eleifend</p>
+    {% endif %}
+    {% if page.landing-description %}<p>{{ page.landing-description }}</p>{% endif %}
   </header>
 
   <section class="wrapper style5">
     <div class="inner">
       {{ content }}
+      {% for post in site.posts offset: 0 limit: 4 %}
+      <header class="major">
+        <h2><a href="{{ site.prefix }}{{ post.url }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt }}</p>
+      </header>
+      {% endfor %}
     </div>
   </section>
 
