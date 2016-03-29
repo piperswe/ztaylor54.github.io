@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ztaylor54
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ztaylor54.com
+  * I am ztaylor54 (https://keybase.io/ztaylor54) on keybase.
+  * I have a public key with fingerprint 9986 7DC2 72A0 82A0 F3CB  BCE6 C9B6 A2EA 2B7B 44EF
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010169b229d78956793cc9c5e45ca47f33760c67b6d44d071ce815f549c33b97f82f0a",
+            "fingerprint": "99867dc272a082a0f3cbbce6c9b6a2ea2b7b44ef",
+            "host": "keybase.io",
+            "key_id": "c9b6a2ea2b7b44ef",
+            "kid": "010169b229d78956793cc9c5e45ca47f33760c67b6d44d071ce815f549c33b97f82f0a",
+            "uid": "4207a66e60a9b8a9877ec46a45fada19",
+            "username": "ztaylor54"
+        },
+        "service": {
+            "hostname": "ztaylor54.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1459219114,
+    "expire_in": 157680000,
+    "prev": "2c6301f36fb6ebbddf5d76066da9c54af21ea8fe47e253fe8a93dc9dd7ce9754",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJLSFVBGL5XzcxKlMRExeBYCGV1njNnLlS4iCB6LMrAyG7zOnrwes/t
+3KPmNRcVRgkaFVJGIdLCsk1GRVj0FFpUFEUFLULzURZFqVBRYnOkNtGygWGYf77v
+m+/7+fvnJwfSg6Dj2VTLyLkFwQd3TtYGtn1/39MoEYc1SKFGqZrPHDzCeNwLV9tM
+CkmyIisAEVVFDJrIABBplCJqcN2gWIeWpkEgUwAJYLrOZKhQbiqGZeiIahpB0DJV
+S8ZSiWTZ0Uruxlw76glZhEwAGVWhimVTbEujhFAOKCIAqxyrBBJd55YgVjlxnyHM
+ERznK2xH1MQlPGPvH/j/7Lt2Rk5XZYgB4EDGiJgYmRByqgOsGxZmWEE+MM7dKK7h
+Ap3wcEPEcQ1daiqRRLnOptzvrB/lb8gK6tQIdsx1PIc6EfFU5XmxkM/0GmI+tJ6T
+8G+RMLGjTDRSEOq4G7edqBRSBJJ6tq+q6AZSFaQoeonE98Rsl4dtH2FAYMpi+d/w
+OiGpUqDJiqUBiwBOCGOWwUQ/AGBY9EjHlqpwbFpch1w1NIuLxBqjiDFIOYIilx9r
+d9SRQoawiSuFZNyujGKv1uVS093bO1ICwfRA6qwkf8AC6XMy/4xd94XZ02vHu9ua
+JZY1MlbcctXcW9+7aOzyxvzc7rSui8xaWb9pVV/qWE5HAjZmXN0SWUNfTV1J+rY4
+ePtJclF7zsG+dztbl5d9Lp83WfW8LLIuJvdn5a6+1TyWqQy+1o58zF+g3++rzxrc
++mNz17GOpY1FJcPbD42H1uZVgML8hFTodrpFDe2nCtoKboweOH2dPNr3ISn5zNu8
+lOne5X27HnSV5mY8Ov8mNeP0JBjtIdkPC+5NnHw8nFZ6dP6n/cH2waGznS8Scxcm
+chbTnwOrvvV82QAnai91FixpbftaPApKl93k6Vd+fO8YPb7+4UC5UVYxlHr45f3s
+fddenEh7Ouv19LFXXcGKXzyeQ2c=
+=IKFZ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ztaylor54
+
+==================================================================
