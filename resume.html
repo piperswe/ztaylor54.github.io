@@ -1,13 +1,22 @@
----
-layout: default
-title: Resume
----
-<div style="height: 800px">
-    <object data="resume.pdf" type="application/pdf" width="100%" height="100%">
+<!DOCTYPE html>
+<html>
+  <head>
+      <script type='text/javascript'>
+      function embedPDF(){
+          var myPDF = new PDFObject({ 
+              url: 'resume.pdf'
+              }).embed();  
+      }
+      window.onload = embedPDF; //Feel free to replace window.onload if needed.
+      </script>
+  </head>
+  <body>
+    <!-- Page Wrapper -->
+    <div id="page-wrapper">
         <p>Oops! You don't have a PDF plugin for this browser.
             No worries, you can <a href="resume.pdf">click here
                 to download my resume.</a>
         </p>
-    </object>
-</div>
-
+    </div>
+  </body>
+</html>
